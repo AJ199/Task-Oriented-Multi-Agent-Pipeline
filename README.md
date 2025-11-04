@@ -4,7 +4,7 @@
 A modular multi-agent orchestration system inspired by LangChain and AutoGen, where independent agents collaborate on subtasks like retrieval, validation, and synthesis to achieve adaptive, multi-step reasoning.
 
 ## Tech Stack
-Python, LangChain-style orchestration, OpenAI API, FastAPI (optional)
+Python, LangChain-style orchestration, OpenAI API, FastAPI
 
 ## Core Idea
 Each agent specializes in a task:
