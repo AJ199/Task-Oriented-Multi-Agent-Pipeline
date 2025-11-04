@@ -1,0 +1,19 @@
+# core frameworks
+langchain>=0.3.0
+langgraph>=1.0.0
+langchain-community>=0.3.0
+
+# model providers
+langchain-openai>=0.2.0
+langchain-google-genai>=2.1.0
+
+# vector store
+chromadb>=0.5.0
+
+# api
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+
+# utils
+python-dotenv>=1.0.1
+pydantic>=2.9.0
